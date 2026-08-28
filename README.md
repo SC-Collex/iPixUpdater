@@ -1,3 +1,3 @@
-VERSION=2.1.9-metchi-2
-URL=https://github.com/youruser/pixellab-mod/releases/download/v3/pixellab.apk
-NOTES=Fixed Emboss on text, fixed font import, added blend modes
+1
+https://github.com/SC-Collex/iPixUpdater/releases/download/v1/pixellab.apk
+Fixed Emboss on text, fixed font import, added blend modes
