@@ -2,5 +2,4 @@ What's New
 
 Update notes:
 
-* Whatever actually changed this time
-* Another change
+* Fuck, i'm tired of it
